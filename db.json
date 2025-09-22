@@ -1,0 +1,112 @@
+{
+  "messages": [
+    {
+      "id": 1,
+      "body": "Hello 👋",
+      "username": "Liza",
+      "created_at": "2021-01-07T09:15:27"
+    },
+    {
+      "id": 2,
+      "body": "Hi brother",
+      "username": "Duane",
+      "created_at": "2021-01-07T09:16:37"
+    },
+    {
+      "id": 3,
+      "body": "let's get this chat app working",
+      "username": "Liza",
+      "created_at": "2021-01-07T09:16:50"
+    },
+    {
+      "id": 4,
+      "body": "ngl, this looks like a lot 😬",
+      "username": "Duane",
+      "created_at": "2021-01-07T09:20:10"
+    },
+    {
+      "id": 5,
+      "body": "You got this! 💪",
+      "username": "Liza",
+      "created_at": "2021-01-07T09:21:11"
+    },
+    {
+      "username": "Duane",
+      "body": "hello",
+      "id": 6
+    },
+    {
+      "username": "Duane",
+      "body": "okay",
+      "id": 7
+    },
+    {
+      "username": "Duane",
+      "body": "thx",
+      "id": 8
+    },
+    {
+      "username": "Duane",
+      "body": "yeah?",
+      "id": 9
+    },
+    {
+      "username": "Duane",
+      "body": "okay",
+      "id": 10
+    },
+    {
+      "username": "Duane",
+      "body": "liza, what do you say?",
+      "id": 11
+    },
+    {
+      "username": "Duane",
+      "body": "fgh",
+      "id": 12
+    },
+    {
+      "username": "Duane",
+      "body": "asdf",
+      "id": 13
+    },
+    {
+      "username": "Duane",
+      "body": "okay",
+      "id": 14
+    },
+    {
+      "username": "Duane",
+      "body": "dfghj",
+      "id": 15
+    },
+    {
+      "username": "Duane",
+      "body": "asdf",
+      "id": 16
+    }
+  ],
+  "randomSentences": [
+    {
+      "sentence": "The quick brown fox jumps over the lazy dog."
+    },
+    {
+      "sentence": "My Mum tries to be cool by saying that she likes all the same things that I do."
+    },
+    {
+      "sentence": "A purple pig and a green donkey flew a kite in the middle of the night and ended up sunburnt."
+    },
+    {
+      "sentence": "Last Friday I saw a spotted striped blue worm shake hands with a legless lizard."
+    },
+    {
+      "sentence": "A song can make or ruin a person’s day if they let it get to them."
+    },
+    {
+      "sentence": "Sometimes it is better to just walk away from things and go back to them later when you’re in a better frame of mind."
+    },
+    {
+      "sentence": "Writing a list of random sentences is harder than I initially thought it would be."
+    }
+  ]
+}
