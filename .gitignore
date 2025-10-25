@@ -21,3 +21,8 @@ yarn-debug.log*
 yarn-error.log*
 
 db.json
+
+# amplify
+.amplify
+amplify_outputs*
+amplifyconfiguration*
