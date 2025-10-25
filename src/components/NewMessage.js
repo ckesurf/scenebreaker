@@ -6,21 +6,25 @@ function NewMessage({ currentUser, onAddMessage }) {
   function handleSubmit(e) {
     e.preventDefault();
 
-    fetch("http://127.0.0.1:4000/messages", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        username: currentUser.username,
-        body: body,
-      }),
-    })
-      .then((r) => r.json())
-      .then((newMessage) => {
-        onAddMessage(newMessage);
+    // fetch("http://127.0.0.1:4000/messages", {
+    //   method: "POST",
+    //   headers: {
+    //     "Content-Type": "application/json",
+    //   },
+    //   body: JSON.stringify({
+    //     username: currentUser.username,
+    //     body: body,
+    //   }),
+    // })
+    //   .then((r) => r.json())
+    //   .then((newMessage) => {
+        // onAddMessage(newMessage);
+        onAddMessage({
+              username: currentUser.username,
+              body: body,
+            });
         setBody("");
-      });
+    //   });
   }
 
   return (
